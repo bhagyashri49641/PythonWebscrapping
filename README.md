@@ -1,4 +1,5 @@
-# PythonWebscrapping
+# PythonWebscrapping : please view in code mode as it is not formated according to markdown syntax
+
 practice examples of web scrapping
 
 
